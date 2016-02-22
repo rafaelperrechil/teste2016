@@ -5,7 +5,7 @@
 <title>Documento sem t&iacute;tulo</title>
 </head>
 
-<body>
+<body>22222
 Eleito o Melhor Hotel de Praia da Am&eacute;rica do Sul por Cond&eacute; Nast, o DPNY Beach Hotel, combina instala&ccedil;&otilde;es luxuosas, Spa, Alta Gastronomia, Clube de Praia, Bosque Particular, N&aacute;utica, em um surpreendente cen&aacute;rio p&eacute; na areia.
 </body>
 </html>
